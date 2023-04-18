@@ -1,3 +1,4 @@
+import 'bulma/css/bulma.css';
 import './App.css';
 import Course  from './Course';
 import Angular from './images/angular.jpg';  //İmage leri App.js den Course.js e prop olarak geçeceğimiz için App.js e import ediyoruz
